@@ -1,2 +1,2 @@
 # Training-service
-![Схема сервиса обучения(2)](https://github.com/user-attachments/assets/08c74a72-2095-4951-add1-1f2848565793)
+![Структура](https://github.com/user-attachments/assets/6336d7b3-eed1-4173-a03b-31044ceaa823)
